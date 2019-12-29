@@ -1,0 +1,12 @@
+name: Live_Crypto
+title: Live_Crypto
+username:
+account: abhishek-dangol
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1620703
+bundleId: 2695130
+url: https://abhishek-dangol.shinyapps.io/Live_Crypto/
+when: 1577500494.1174
+asMultiple: FALSE
+asStatic: FALSE
